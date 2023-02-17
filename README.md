@@ -1,6 +1,6 @@
 **Project Name:** Temperature and Heat Islands in brazilian cities
 
-**Group:**  Antônio Lampert Vargas, Carolina Cristofoli Falcao and Oscar Stiven Morales Zapata
+**Group:**  Oscar Stiven Morales Zapata, Carolina Cristofoli Falcao and Antônio Lampert Vargas
 
 **Main idea:** Through climatic data, observe the heat island phenomenon in Brazilian cities. Correlate with urban health by finding temperatures that are prejudicial to health.
 
